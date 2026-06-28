@@ -16,3 +16,12 @@ Herramienta para registrar, administrar y hacer seguimiento de expedientes de pe
 ## Instalación
 
 Próximamente.
+
+## Requisitos
+
+- Windows 10 o superior
+- Conexión a internet para sincronización de expedientes
+
+## Licencia
+
+Uso interno — Gestoría EB.
